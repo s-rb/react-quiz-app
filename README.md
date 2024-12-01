@@ -14,4 +14,4 @@
 - It uses the ReactJS library.
 - The project was bootstrapped with Create-react-app
 
-#### Demo is here: [Click me!](http://quiz.surkoff.com)
+#### Demo is here: [Click me!](http://quiz.surkoff.su)
